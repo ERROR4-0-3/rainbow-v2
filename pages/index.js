@@ -26,7 +26,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deverloped by : {'Eyad Faisal'}
+          Developed by : {'Eyad Faisal'}
           
         </a>
       </footer>
