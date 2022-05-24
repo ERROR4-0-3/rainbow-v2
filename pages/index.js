@@ -26,7 +26,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Forked by{' Eyad Faisal'}
+          Deverloped by : {'Eyad Faisal'}
           
         </a>
       </footer>
